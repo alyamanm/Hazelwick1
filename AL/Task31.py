@@ -5,4 +5,5 @@ match number:
     case 2: (print ("I generated the number 2"))
     case 3: (print ("I generated the number 3"))
     case 4: (print ("I generated the number 4"))
-  
+    case 5: (print ("I generated the number 5"))
+    case 6: (print ("I generated the number 6"))
