@@ -1,0 +1,25 @@
+timetables = int(input("Enter your times table: "))
+ans = 1 * timetables
+print("1 times", timetables, "is", ans)
+ans = 2 * timetables
+print("2 times", timetables, "is", ans)
+ans = 3 * timetables
+print("3 times", timetables, "is", ans)
+ans = 4 * timetables
+print("4 times", timetables, "is", ans)
+ans = 5 * timetables
+print("5 times", timetables, "is", ans)
+ans = 6 * timetables
+print("6 times", timetables, "is", ans)
+ans = 7 * timetables
+print("7 times", timetables, "is", ans)
+ans = 8 * timetables
+print("8 times", timetables, "is", ans)
+ans = 9 * timetables
+print("9 times", timetables, "is", ans)
+ans = 10 * timetables
+print("10 times", timetables, "is", ans)
+ans = 11 * timetables
+print("11 times", timetables, "is", ans)
+ans = 12 * timetables
+print("12 times", timetables, "is", ans)
